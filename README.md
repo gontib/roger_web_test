@@ -1,5 +1,7 @@
 # roger_web_test
 
+This will run on a Linux or Mac OS.
+
 Requirements for running the test:
 Python2.7,
 virtualenv,
